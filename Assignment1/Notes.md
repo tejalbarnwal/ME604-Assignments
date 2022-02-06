@@ -8,12 +8,12 @@ Using this function, calculation of T is performed where, T represents the trans
 
 Output T is shown in the following image - <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64950661/152681856-763de0f0-08cc-45fc-8cbb-92f666aebbf9.png">
+  <img src="https://user-images.githubusercontent.com/64950661/152683603-0eafd431-f7d5-466e-bdfc-13a5e244af66.png">
 </p>
 
 Further, using the robotic toolbox a serial robotic arm is created with the same DH parameters. The output for the same is shown below -
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64950661/152681908-70bdd61d-c1a9-4966-939b-8d2ddb8ffb50.png">
+  <img src="https://user-images.githubusercontent.com/64950661/152683621-60ab9f1c-0688-4586-be21-c1a29aacdd8f.png">
 </p>
 
 
@@ -24,7 +24,7 @@ The following figure represents the confihuration of the robot provided all join
 
 `fkine()` is used to calculate the forward kinematic transformation between the end link and the base link given the six joint angles. The output for the same is shown below-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64950661/152682019-23b2ccb0-b5d4-4de4-8c69-b0fd57b0203f.png">
+  <img src="https://user-images.githubusercontent.com/64950661/152683647-a8bf671b-11bb-48ae-b5cf-2be3c4971cd8.png">
 </p>
 
 
